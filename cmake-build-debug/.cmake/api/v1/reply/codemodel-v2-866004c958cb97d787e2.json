@@ -1,0 +1,121 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "src",
+					"jsonFile" : "directory-src-Debug-c94b7c2814d5a21df52c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "src",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "computer",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "computer::@145eef247bfb46b6828c",
+					"jsonFile" : "target-computer-Debug-7cb0aa7d46673c9960e7.json",
+					"name" : "computer",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "cpu::@145eef247bfb46b6828c",
+					"jsonFile" : "target-cpu-Debug-7111035ccf1e958a2105.json",
+					"name" : "cpu",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "disk::@145eef247bfb46b6828c",
+					"jsonFile" : "target-disk-Debug-243d214681a4a3bcdb8a.json",
+					"name" : "disk",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "gpu::@145eef247bfb46b6828c",
+					"jsonFile" : "target-gpu-Debug-acb4212ccf53a7501168.json",
+					"name" : "gpu",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "kbd::@145eef247bfb46b6828c",
+					"jsonFile" : "target-kbd-Debug-f5646557b5576daa115d.json",
+					"name" : "kbd",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "ram::@145eef247bfb46b6828c",
+					"jsonFile" : "target-ram-Debug-e37ea9e3e64773b34d7d.json",
+					"name" : "ram",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/develop/Clion/Clion projects/computer/cmake-build-debug",
+		"source" : "C:/develop/Clion/Clion projects/computer"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

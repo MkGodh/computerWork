@@ -1,0 +1,10 @@
+C:/develop/Clion/Clion projects/computer/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/develop/Clion/Clion projects/computer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/develop/Clion/Clion projects/computer/cmake-build-debug/src/CMakeFiles/cpu.dir
+C:/develop/Clion/Clion projects/computer/cmake-build-debug/src/CMakeFiles/ram.dir
+C:/develop/Clion/Clion projects/computer/cmake-build-debug/src/CMakeFiles/disk.dir
+C:/develop/Clion/Clion projects/computer/cmake-build-debug/src/CMakeFiles/gpu.dir
+C:/develop/Clion/Clion projects/computer/cmake-build-debug/src/CMakeFiles/kbd.dir
+C:/develop/Clion/Clion projects/computer/cmake-build-debug/src/CMakeFiles/computer.dir
+C:/develop/Clion/Clion projects/computer/cmake-build-debug/src/CMakeFiles/edit_cache.dir
+C:/develop/Clion/Clion projects/computer/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir
